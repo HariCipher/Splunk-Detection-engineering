@@ -1,4 +1,4 @@
-# Detection Engineering Journey
+# Splunk Detection Engineering
 
 A collection of detection engineering projects built using Splunk and Windows telemetry.
 
